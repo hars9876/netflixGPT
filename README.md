@@ -74,11 +74,12 @@ step
 
 -create react app
 -configure tailwind css
+-added on git
 
 feature
 
 for login user
-browse page(after authenicatio)
+browse page(after authenication)
     - header
     -main movie
         -trailer in background
