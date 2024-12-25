@@ -75,6 +75,8 @@ step
 -create react app
 -configure tailwind css
 -added on git
+-added login form
+-added sign up form
 
 feature
 
